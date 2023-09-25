@@ -9,4 +9,5 @@ export function ContactCard({name, mobile}){
         </div>
     )
 }
+
 export default ContactCard
