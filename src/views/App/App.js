@@ -21,9 +21,9 @@ setContacts(filteredContacts);
 
     return (
         <>
-    <h1 className='text-center'>Contact Baba</h1>
+    <h1 className='text-center'>Contact App 📞</h1>
  <input type='text' 
- placeholder='Search' 
+ placeholder='Search Here' 
  className='search' 
  value={searchTerm}
  onChange={(e)=>{setSearchTerm(e.target.value)}}

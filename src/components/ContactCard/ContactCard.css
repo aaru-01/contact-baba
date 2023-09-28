@@ -4,6 +4,8 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     margin: 10px;
-    background-color: rgb(242, 212, 176);
+    /* background-color: rgb(242, 212, 176); */
+    background-color: plum;
     margin: 15px auto;
+    color: rgb(49, 47, 47);
 }
